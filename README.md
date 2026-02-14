@@ -141,7 +141,7 @@ Step 1. Download the Shortcut Files
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/apple-expense-tracker-shortcuts-numbers.git
+git clone https://github.com/SreyasKSunil/iOS-Expense-Tracker-Shortcuts-Numbers.git
 
 
 Open the Numbers file.
